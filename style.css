@@ -58,6 +58,11 @@ ul li{
     display: block;
 }
 section h2{
+    font-size: 30px;
+}
+section p{
+    font-size: 15px;
+    padding: 5px 0;
 }
 header a{
     color: black;
@@ -85,7 +90,7 @@ h2{
 }
 #content{
     width: 60%;
-    height: 1000px;
+    height: 100%;
     margin: 0 auto;
 }
 #mainpiece{
@@ -115,6 +120,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: last baseline;
+    position: relative;
 }
 footer h3{
     color: white

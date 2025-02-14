@@ -12,7 +12,7 @@ function tester(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -34,7 +34,7 @@ function tester2(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -57,7 +57,7 @@ function tester3(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -80,7 +80,7 @@ function tester4(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2>
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -103,7 +103,7 @@ function tester5(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -126,7 +126,7 @@ function tester6(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -149,7 +149,7 @@ function tester7(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
@@ -172,7 +172,7 @@ function tester8(){
         const card = document.createElement('section');
         card.innerHTML = `
             <h2>${item.title}</h2> 
-            <img src="${item.imageUrl}" alt="${item.altText}" style="width:20%;">
+            <img src="${item.imageUrl}" alt="${item.altText}" style="width:30%;">
             <p><strong>Team: ${item.Team}</strong></p>
             <p>${item.text}  <a href = "${item.wikiLink}" target = "_blank">Read More</a></p>`;
         card.style = 'display: block'
